@@ -5,7 +5,7 @@ import './AboutUs.css';
 
 const AboutUs = () => (
   <div>
-    AboutUs
+    AboutUs 
   </div>
 );
 
